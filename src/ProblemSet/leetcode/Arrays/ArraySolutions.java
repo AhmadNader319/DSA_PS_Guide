@@ -114,7 +114,7 @@ public class ArraySolutions {
         return i + 1;
     }
     public List<List<Integer>> threeSum(int[] nums) {
-        //
+        //15. 3Sum
         //https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=array
         //Medium
         List<List<Integer>> result = new ArrayList<>();
@@ -153,6 +153,9 @@ public class ArraySolutions {
         return result;
     }
     public int searchInsert(int[] nums, int target) {
+        //35. Search Insert Position
+        //https://leetcode.com/problems/search-insert-position/description/
+        //Easy
         if (target<=nums[0])
             return 0;
         for (int i = 1; i < nums.length; i++) {

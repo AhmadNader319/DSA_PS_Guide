@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31735791-9885-4dce-9d21-caede04e07f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA-PS-Guide.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array-functions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MenuHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Difficulty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSet/codeforces/AssuitJuniorSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArrayProblems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Strings/StringSolutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArraySolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArraySolutions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2lpHRCNXvMuipSGicy1MKVC1ZXn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
