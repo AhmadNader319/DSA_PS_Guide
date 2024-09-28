@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31735791-9885-4dce-9d21-caede04e07f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSet/codeforces/AssuitJuniorSheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArrayProblems" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Strings/StringSolutions.java" afterDir="false" />
+    <list default="true" id="31735791-9885-4dce-9d21-caede04e07f2" name="Changes" comment="More LeetCode Problems solved(two pointers).">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA-PS-Guide.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-PS-Guide.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/ProjectManagementDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ProjectManagementDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArraySolutions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProblemSet/leetcode/Arrays/ArraySolutions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utils/DBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils/DBUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +22,30 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AhmadNader319&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AhmadNader319/DSA_PS_Guide.git&quot;,
+    &quot;accountId&quot;: &quot;67324549-86e6-435e-b79b-5d7b56b4a73b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -42,9 +60,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "GuideMenu",
+    "java.suggest.annotation.dependency": "false",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -52,8 +75,16 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/ahmadnader/Desktop/DSA-PS-Guide/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -72,11 +103,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725870086859</updated>
-      <workItem from="1725870087928" duration="12511000" />
+      <workItem from="1725870087928" duration="26800000" />
+      <workItem from="1726115019712" duration="10795000" />
+      <workItem from="1726201980439" duration="858000" />
+      <workItem from="1726203496195" duration="15562000" />
+      <workItem from="1726499365542" duration="5554000" />
+      <workItem from="1726670945525" duration="9728000" />
+      <workItem from="1726994799323" duration="3368000" />
     </task>
+    <task id="LOCAL-00001" summary="More LeetCode Problems solved(two pointers).">
+      <option name="closed" value="true" />
+      <created>1726719114236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726719114236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="More LeetCode Problems solved(two pointers)." />
+    <option name="LAST_COMMIT_MESSAGE" value="More LeetCode Problems solved(two pointers)." />
   </component>
 </project>
